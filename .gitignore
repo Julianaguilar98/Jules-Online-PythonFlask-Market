@@ -1,0 +1,6 @@
+﻿**/instance
+**/.webassets-cache
+**/__pycache__
+**/inspectionProfiles
+**/.idea
+**/venv
